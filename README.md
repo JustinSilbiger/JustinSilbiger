@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Justin Silbiger!
 
- 🎓 Full stack software engineering student at the City University of New York | QCC x CEWD<br/>
+ 🎓 Full stack software engineering student at the City University of New York | QCC & CEWD<br/>
  🐢 University of Maryland graduate with a B.Sc. in Public Health Science<br/>
  📚 Currently learning to use the React Library ⚛<br/>
 
