@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Justin Silbiger!
 
- 🎓 Software Engineer Boot Camp Graduate | City University of New York - QCC & CEWD<br/>
- 🐢 University of Maryland Graduate | B.Sc. in Public Health Science<br/>
- 📚 Currently learning to use the React Library ⚛<br/>
+ 👨🏻‍💻 Software Engineering Boot Camp Graduate | City University of New York - QCC & CEWD<br/>
+ 🐢 B.Sc. in Public Health Science | University of Maryland - SPH<br/>
+ 👨🏻‍🔬 Currently learning to use the React Library & Material UI ⚛<br/>
 
-## 👨🏻‍💻 Tech Stack
+## 📚 Tech Stack
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
