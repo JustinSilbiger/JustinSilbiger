@@ -2,7 +2,7 @@
 
  👨🏻‍💻 Software Engineering Boot Camp Graduate | City University of New York - QCC & CEWD<br/>
  🐢 B.Sc. in Public Health Science | University of Maryland - SPH<br/>
- 👨🏻‍🔬 Currently learning to use the React Library & Material UI ⚛<br/>
+ 👨🏻‍🔬 Currently experimenting with Django<br/>
 
 ## 📚 Tech Stack
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
