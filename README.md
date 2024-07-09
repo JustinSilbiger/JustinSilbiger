@@ -18,6 +18,6 @@ I am currently leading the development of the **Silbiger Family Tree project**, 
 
 I'm enthusiastic about new opportunities and collaborations. Please feel free to reach out to discuss potential projects, job opportunities, or to connect professionally. You can reach me here:
 
-- 💼 **LinkedIn:** [Justin Silbiger]([https://www.linkedin.com/in/justinsilbiger/](https://www.linkedin.com/in/justinzs/))
+- 💼 **LinkedIn:** [Justin Silbiger](https://www.linkedin.com/in/justinsilbiger/](https://www.linkedin.com/in/justinzs/)
 - 🐈 **GitHub:** [Justin Silbiger](https://github.com/JustinSilbiger)
-- 👨🏻‍💻 **Website:** [Justin Silbiger]([https://JustinSilbiger.com](https://justinsilbiger.github.io/#contact))
+- 👨🏻‍💻 **Website:** [Justin Silbiger](https://JustinSilbiger.com](https://justinsilbiger.github.io/#contact)
