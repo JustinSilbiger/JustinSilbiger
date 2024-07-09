@@ -2,7 +2,7 @@
 
 ## About Me 
 
-Welcome to my GitHub profile! I am a Full Stack Developer with certifications from the City University of New York and a B.Sc. in Public Health Science from the University of Maryland. By combining my backgrounds in public health and technology, I develop innovative software solutions that address health challenges and provide meaningful solutions. My technical skills include proficiency in HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express, PostgreSQL, Python, Flask, Django, and FastAPI.
+I am a Full Stack Developer with certifications from the City University of New York and a B.Sc. in Public Health Science from the University of Maryland. By combining my backgrounds in public health and technology, I develop innovative software solutions that address health challenges and provide meaningful solutions. My technical skills include proficiency in HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express, PostgreSQL, Python, Flask, Django, and FastAPI.
 
 ## Current Project
 
