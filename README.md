@@ -20,5 +20,4 @@ I am currently leading the development of the **Silbiger Family Tree Database**,
 I'm enthusiastic about new opportunities and collaborations. Please feel free to reach out to discuss potential projects, job opportunities, or to connect professionally. You can reach me here:
 
 💼 [**LinkedIn**](https://www.linkedin.com/in/justinzs/)\
-🐈 [**GitHub**](https://github.com/JustinSilbiger)\
 👨🏻‍💻 [**Website**](https://justinsilbiger.github.io/#contact)
