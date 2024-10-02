@@ -1,33 +1,37 @@
-# Hi there, I'm Justin! Welcome to my GitHub.
+# 👋 Hello, I'm Justin!
 
-## 👨🏻‍💻 About Me 
+## 💼 Profile
 
-I am a Full Stack Developer with certifications from the City University of New York and experience building scalable web applications. My expertise spans front-end and back-end development, with proficiency in technologies such as HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express, Django, Python, Flask, FastAPI, and SQL, among others. 
-<br><br>
-I like working with React to develop user-friendly interfaces with interactive designs. I also enjoy collaborating with others to solve complex problems and deliver thoughtful solutions.
+🎓 Full Stack Developer with certifications in both Web and Full Stack Development
 
-## ⌨️ Current Project 
+🚀 Working on building scalable, high-performance web applications
 
-### [Silbiger Family Tree 🌲](https://github.com/JustinSilbiger/silbiger)
+💡 Interested in medical and healthcare application development
 
-I am currently leading the development of the **Silbiger Family Tree Database**, a comprehensive web application designed to document and expand upon the genealogy of the Silbiger family. The platform manages a growing list of over 1200 family members, featuring an intuitive user interface for exploring family connections. This project preserves and enhances data from the legacy Silbiger Family Website, addressing its limitations by leveraging **Node.js** and **Express** for the backend and **PostgreSQL** for efficient data management.
+🎨 Enjoy creating intuitive, powerful user interfaces through Human-Centered Design (HCD)
 
-#### Key Features:
-- User authentication and secure access
-- Comprehensive data management
-- Intuitive, user-friendly interface for exploring family history
+🤝 Strong collaborator, excelling in cross-functional team environments with proficiency in Jira for efficient project management
 
-This project aims to make it easier for users to learn about their ancestry, trace their roots, and connect with relatives.
+## 👨🏻‍💻 Recent Project: Family Tree Database 
 
-*If you are a Silbiger and would like to join the family tree, please submit the form on the website to get in touch with me.*
+### [🧬 Silbiger Family Tree 🌲](https://github.com/JustinSilbiger/silbiger)
+
+🚀 Led end-to-end development of the **Silbiger Family Tree Database**
+
+📊 Engineered a genealogy focused web app managing 1200+ user profiles
+
+🏛️ Demonstrated ability to blend legacy data with current technology
+
+#### 🔑 Highlights:
+
+- 🗄️ Designed and optimized comprehensive data management systems
+- 🔒 Implemented robust user authentication and role-based access control
+- 🧭 Developed an intuitive, user-friendly interface for complex data exploration
 <br>
-*Please note that the application is deployed on Render's free tier, so the instance may take a moment to spin up after periods of inactivity.*
+⚙️ Technical note: Deployed on Render's free tier. Brief loading time may occur after inactivity._
 
+## 🤝 Let's Connect and Collaborate
 
-  
-## 🛜 Let's Connect 
-
-I'm enthusiastic about new opportunities and collaborations!
-
-💼 [**LinkedIn**](https://www.linkedin.com/in/justinzs/)\
-👨🏻‍💻 [**Website**](https://justinsilbiger.github.io/#contact)
+💼 [**LinkedIn**](https://www.linkedin.com/in/justinzs/) - Learn more about my professional experience
+<br>
+🖥️ [**Portfolio**](https://justinsilbiger.github.io/#contact) - See some of my work and get in touch
