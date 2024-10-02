@@ -28,7 +28,7 @@
 - 🔒 Implemented robust user authentication and role-based access control
 - 🧭 Developed an intuitive, user-friendly interface for complex data exploration
 <br>
-⚙️ Technical note: Deployed on Render's free tier. Brief loading time may occur after inactivity._
+⚙️ Technical note: Deployed on Render's free tier. Brief loading time may occur after inactivity.
 
 ## 🤝 Let's Connect and Collaborate
 
