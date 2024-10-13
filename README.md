@@ -16,17 +16,11 @@
 
 ### [🧬 Silbiger Family Tree 🌲](https://github.com/JustinSilbiger/silbiger)
 
-🚀 Led end-to-end development of the **Silbiger Family Tree Database**
+#### Highlights:
 
-📊 Engineered a genealogy focused web app managing 1200+ user profiles
-
-🏛️ Demonstrated ability to blend legacy data with current technology
-
-#### 🔑 Highlights:
-
-- 🗄️ Designed and optimized comprehensive data management systems
-- 🔒 Implemented robust user authentication and role-based access control
-- 🧭 Developed an intuitive, user-friendly interface for complex data exploration
+- Designed and optimized comprehensive data management systems
+- Implemented robust user authentication and role-based access control
+- Developed an intuitive, user-friendly interface for complex data exploration
 <br>
 ⚙️ Technical note: Deployed on Render's free tier. Brief loading time may occur after inactivity.
 
