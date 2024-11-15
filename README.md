@@ -20,7 +20,7 @@
 
 - Designed and optimized comprehensive data management systems
 - Implemented robust user authentication and role-based access control
-- Developed an intuitive, user-friendly interface for complex data exploration
+- Developed an intuitive, user-friendly interface for database exploration
 <br>
 ⚙️ Technical note: Deployed on Render's free tier. Brief loading time may occur after inactivity.
 
