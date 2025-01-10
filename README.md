@@ -28,4 +28,4 @@
 
 💼 [**LinkedIn**](https://www.linkedin.com/in/justinzs/) - Learn more about my professional experience
 <br>
-🖥️ [**Portfolio**](https://justinsilbiger.github.io/#contact) - See some of my work and get in touch
+🖥️ [**Portfolio**](https://justinsilbiger.com) - See some of my work and get in touch
