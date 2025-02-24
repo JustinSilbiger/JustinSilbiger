@@ -6,8 +6,6 @@
 
 🚀 Working on building scalable, high-performance web applications
 
-💡 Interested in medical and healthcare application development
-
 🎨 Enjoy creating intuitive, powerful user interfaces through Human-Centered Design (HCD)
 
 🤝 Strong collaborator, excelling in cross-functional team environments with proficiency in Jira for efficient project management
