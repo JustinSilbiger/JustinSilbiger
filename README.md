@@ -1,6 +1,6 @@
 # 👋  Hello!
 
-### 👨🏻‍💻 I'm Justin, Founder & Lead Engineer @ 🏕️ [Forest Hills Web](https://foresthillsweb.com).
+### 👨🏻‍💻 I'm Justin, Founder & Lead Engineer @ [Forest Hills Web](https://foresthillsweb.com) 🏕️
 
 <br>
 
