@@ -15,6 +15,6 @@
 <br>
 
 ## 📇 Contact Me:
-### 💼 [LinkedIn](https://www.linkedin.com/in/justinzs/)
+### 🤝 [LinkedIn](https://www.linkedin.com/in/j-z-s/)
 
 ### 🖥️ [Portfolio](https://justinsilbiger.com)
